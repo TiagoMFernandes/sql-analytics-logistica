@@ -1,0 +1,16 @@
+id,contrato,tipo_veiculo,data_pedido,data_entrega,prazo_dias,dias_realizados,status,responsavel,prioridade,valor_contrato
+1,Contrato_SP_PM,Viatura_Policia,2024-08-01,2024-08-28,30,27,Entregue,Analista_01,Alta,185000
+2,Contrato_SP_PM,Viatura_Policia,2024-08-05,2024-09-10,30,36,Atrasado,Analista_02,Alta,185000
+3,Contrato_Bombeiros,Caminhao_Bombeiros,2024-08-10,2024-09-20,45,41,Entregue,Analista_01,Alta,320000
+4,Contrato_SP_Civil,Van_Suporte,2024-08-12,2024-09-01,20,20,Entregue,Analista_03,Media,95000
+5,Contrato_SAMU,Ambulancia,2024-08-15,2024-09-14,30,30,Entregue,Analista_02,Alta,210000
+6,Contrato_SP_PM,Viatura_Policia,2024-08-20,2024-10-01,40,42,Atrasado,Analista_04,Alta,185000
+7,Contrato_Bombeiros,Caminhao_Bombeiros,2024-08-22,2024-10-10,45,49,Atrasado,Analista_01,Alta,320000
+8,Contrato_SP_Civil,Van_Suporte,2024-08-25,2024-09-14,20,20,Entregue,Analista_03,Media,95000
+9,Contrato_SAMU,Ambulancia,2024-09-01,2024-09-29,30,28,Entregue,Analista_02,Alta,210000
+10,Contrato_SP_PM,Viatura_Policia,2024-09-05,2024-10-04,30,29,Entregue,Analista_04,Alta,185000
+11,Contrato_Bombeiros,Ambulancia,2024-09-10,2024-10-20,45,40,Entregue,Analista_01,Alta,210000
+12,Contrato_SP_Civil,Van_Suporte,2024-09-15,2024-10-05,20,20,Entregue,Analista_03,Media,95000
+13,Contrato_SAMU,Ambulancia,2024-09-20,2024-10-25,35,35,Entregue,Analista_02,Alta,210000
+14,Contrato_SP_PM,Viatura_Policia,2024-09-25,2024-11-05,40,41,Atrasado,Analista_04,Alta,185000
+15,Contrato_Bombeiros,Caminhao_Bombeiros,2024-10-01,2024-11-20,50,50,Entregue,Analista_01,Alta,320000
